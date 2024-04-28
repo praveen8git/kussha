@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "kussha-main",
+    "bytore": "bytore-main",
+    "kussha": "kussha-main"
+  },
+  "targets": {},
+  "etags": {}
+}
